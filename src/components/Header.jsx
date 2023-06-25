@@ -9,7 +9,7 @@ function Header() {
         <div>
           <p>Etienne</p>
           <div className="cercle">
-            <img src={user} alt="" />
+            <img className="imageicone" src={user} alt="" />
           </div>
         </div>
       </div>

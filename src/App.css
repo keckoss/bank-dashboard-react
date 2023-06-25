@@ -30,18 +30,18 @@ body {
   gap: 20px;
 }
 .header img {
-  height: 40px;
-  width: 40px;
+  height: 30px;
+  width: 30px;
+  margin: 0 auto;
   background-color: white;
 }
+
 .cercle {
-}
-.cercle img {
-  width: 30px;
-  height: 30px;
-  fill: #000000; /* Couleur de l'icône SVG */
-  padding: 10px;
-  border-radius: 30%;
+  width: 50px;
+  height: 50px;
+  /* Couleur de l'icône SVG */
+  border-radius: 50%;
+  background-color: white;
 }
 .compte {
   margin-top: 50px;
