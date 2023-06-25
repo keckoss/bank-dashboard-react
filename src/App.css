@@ -80,10 +80,12 @@ body {
 .policemontant {
   font-family: "Source Code Pro", monospace;
   font-weight: 300;
+  margin-right: 10px;
 }
 
 .ladate {
   font-weight: 200;
+  margin-left: 10px;
 }
 
 .nomcompte.even {
